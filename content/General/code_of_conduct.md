@@ -4,7 +4,7 @@ date =  2020-07-19T14:03:27+04:00
 weight = 5
 +++
 
-All projects(including mailing lists) at HWTechClub is required follow [The Lunduke Code of Conduct](https://lunduke.com/pages/codeofconduct/).
+All projects(including mailing lists) at HWTechClub is required to follow [The Lunduke Code of Conduct](https://lunduke.com/pages/codeofconduct/).
 
 ### The Lunduke Code of Conduct
 

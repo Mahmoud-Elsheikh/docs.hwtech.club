@@ -7,3 +7,6 @@
 hugo.exe
 hugo.darwin
 hugo.linux
+
+# WSL related file Identifier
+*.Identifier

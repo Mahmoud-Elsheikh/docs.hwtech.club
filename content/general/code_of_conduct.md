@@ -1,7 +1,7 @@
 +++
 title = "Code of Conduct"
 date =  2020-07-19T14:03:27+04:00
-weight = 5
+weight = 1
 +++
 
 All projects(including mailing lists) at HWTechClub is required to follow [The Lunduke Code of Conduct](https://lunduke.com/pages/codeofconduct/).

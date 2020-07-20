@@ -6,7 +6,9 @@ weight = 5
 
 All projects at HWTechClub is *required* to be **open source** (excluding projects that are university related to comply with academic standards and requirements.)  
 Choose appropriate license from [choosealicense.com](https://choosealicense.com/). The *default recommended license* is [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/).  
-If in doubt regarding which license is appropriate, please contact the [Club President]({{%relref "echelon_members.md" %}}).
+{{% notice info %}}
+If in doubt regarding which license is appropriate for project, please contact the [Club President]({{%relref "echelon_members.md" %}}).
+{{% /notice %}}
 
 ## Open Standards Requirement for Software
 ### The Requirement

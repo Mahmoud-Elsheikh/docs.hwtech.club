@@ -4,7 +4,7 @@ Documentation Website for HWTechClub
 ---
 ### To get a local copy
 
-1. Git clone thr repo  
+1. Git clone the repo  
 ```shell
 git clone https://github.com/HWTechClub/docs.hwtech.club.git
 ```

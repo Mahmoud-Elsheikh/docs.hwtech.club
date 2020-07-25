@@ -8,9 +8,10 @@ Documentation Website for HWTechClub
 ```shell
 git clone https://github.com/HWTechClub/docs.hwtech.club.git
 ```
-2. Clone submodules to get theme
+2. (Optional) To update theme
 ```shell
-git submodule update --init --recursive
+git fetch hugo-theme-learn master
+git subtree pull --prefix themes/hugo-theme-learn hugo-theme-learn master --squash
 ```
 3. Run Hugo local live server  
 ```shell
@@ -20,6 +21,12 @@ hugo server
 ```shell
 hugo --gc --minify
 ```
+---
+
+### Theme Used: [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn/)
+
+Theme Docs: [learn.netlify.app](https://learn.netlify.app/)
+
 ---
 
 Changelog

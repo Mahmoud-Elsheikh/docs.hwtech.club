@@ -11,3 +11,4 @@ pre = "<b></b>"
 # General Information
 
 Information regarding HWTechClub and base guidelines concerning all projects.
+

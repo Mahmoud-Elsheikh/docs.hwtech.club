@@ -5,7 +5,7 @@ weight = 5
 +++
 
 
-All HWTechClub projects is required to have the following documents unless indicated otherwise:
+All HWTechClub projects are required to have the following documents unless indicated otherwise:
 
 > PROJECT NAME/  
     - README.md  
